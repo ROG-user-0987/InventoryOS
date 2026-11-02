@@ -115,31 +115,31 @@ It also solves the hard technical cases: two people selling the last unit at the
 All screenshots use the seeded demo data, signed in as the System Admin, in dark theme.
 
 ### Dashboard: KPIs, movement chart and live activity
-![Dashboard](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ### Dashboard: value by warehouse, stock by category, fast movers, items needing attention
-![Dashboard charts](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\dashboard-charts.png)
+![Dashboard charts](images/dashboard-charts.png)
 
 ### Inventory: every product in every warehouse
-![Inventory](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\inventory.png)
+![Inventory](images/inventory.png)
 
 ### Products: catalogue with prices, average cost and total stock
-![Products](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\products.png)
+![Products](images/products.png)
 
 ### Transactions: the append-only stock ledger
-![Transactions](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\transactions.png)
+![Transactions](images/transactions.png)
 
 ### Warehouses: value, units and stock health per site
-![Warehouses](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\warehouses.png)
+![Warehouses](images/warehouses.png)
 
 ### Suppliers: contacts, lead times and ratings
-![Suppliers](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\suppliers.png)
+![Suppliers](images/suppliers.png)
 
 ### Forecasts: urgency summary and per-product reorder advice
-![Forecasts](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\forecasts.png)
+![Forecasts](images/suppliers.png)
 
 ### Audit log and ledger consistency check
-![Audit log](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\audit-log.png)
+![Audit log](images/audit-log.png)
 
 ---
 
