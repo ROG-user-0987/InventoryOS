@@ -115,31 +115,31 @@ It also solves the hard technical cases: two people selling the last unit at the
 All screenshots use the seeded demo data, signed in as the System Admin, in dark theme.
 
 ### Dashboard: KPIs, movement chart and live activity
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\dashboard.png)
 
 ### Dashboard: value by warehouse, stock by category, fast movers, items needing attention
-![Dashboard charts](docs/screenshots/dashboard-charts.png)
+![Dashboard charts](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\dashboard-charts.png)
 
 ### Inventory: every product in every warehouse
-![Inventory](docs/screenshots/inventory.png)
+![Inventory](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\inventory.png)
 
 ### Products: catalogue with prices, average cost and total stock
-![Products](docs/screenshots/products.png)
+![Products](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\products.png)
 
 ### Transactions: the append-only stock ledger
-![Transactions](docs/screenshots/transactions.png)
+![Transactions](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\transactions.png)
 
 ### Warehouses: value, units and stock health per site
-![Warehouses](docs/screenshots/warehouses.png)
+![Warehouses](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\warehouses.png)
 
 ### Suppliers: contacts, lead times and ratings
-![Suppliers](docs/screenshots/suppliers.png)
+![Suppliers](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\suppliers.png)
 
 ### Forecasts: urgency summary and per-product reorder advice
-![Forecasts](docs/screenshots/forecasts.png)
+![Forecasts](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\forecasts.png)
 
 ### Audit log and ledger consistency check
-![Audit log](docs/screenshots/audit-log.png)
+![Audit log](C:\Users\srira\Documents\FRONTEND\New folder\exp10(project)\images\audit-log.png)
 
 ---
 
